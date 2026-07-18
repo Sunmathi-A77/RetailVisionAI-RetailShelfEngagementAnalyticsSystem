@@ -1,4 +1,6 @@
 ultralytics
+torch
+torchvision
 opencv-python
 numpy
 pandas
@@ -6,3 +8,5 @@ streamlit
 plotly
 Pillow
 matplotlib
+imageio
+imageio-ffmpeg
