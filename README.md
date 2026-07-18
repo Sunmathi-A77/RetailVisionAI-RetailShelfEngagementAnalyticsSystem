@@ -175,7 +175,7 @@ Place premium products or high-value items here.
 # 📂 Project Structure
 
 ```
-RetailVisionAI
+RetailVisionAI/
 │
 ├── app.py
 ├── config.py
@@ -191,8 +191,12 @@ RetailVisionAI
 │
 ├── dataset/
 ├── uploads/
+├── uploaded_videos/
 ├── output/
-├── output_videos/
+├── input/
+│
+├── __pycache__/   (ignored)
+├── venv/          (ignored)
 │
 └── yolov8n.pt
 ```
